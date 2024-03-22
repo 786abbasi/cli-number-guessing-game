@@ -1,0 +1,19 @@
+{
+  "name": "hamza-28-cli-number-guessing-game",
+  "version": "1.0.0",
+  "description": "\"cli-number-gussing\"",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"HAMZA ABBASI\"",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
