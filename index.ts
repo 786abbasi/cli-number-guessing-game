@@ -6,6 +6,8 @@ import inquirer from "inquirer";
 //ager same hai tou print ho jaye consol pr congratulation! u win the guessing number.
 const randomNumber = Math.floor(Math.random() * 6 + 1);
 
+console.log("Welcome To number Guessing Game");
+
 const answer = await inquirer.prompt([
   {
     name: "userGuessedNumber",

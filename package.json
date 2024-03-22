@@ -1,6 +1,6 @@
 {
   "name": "hamza-28-cli-number-guessing-game",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "\"cli-number-gussing\"",
   "main": "index.js",
   "type": "module",
